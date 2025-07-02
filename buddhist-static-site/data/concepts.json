@@ -1,0 +1,312 @@
+{
+  "concepts": {
+    "three_jewels": {
+      "title": "三宝",
+      "subtitle": "The Three Jewels",
+      "description": "归依三宝是成为佛教徒的第一步，表示愿意以佛为师，以法为药，以僧为友。",
+      "category": "foundational",
+      "items": [
+        {
+          "name": "佛宝",
+          "english": "The Buddha",
+          "description": "指已经圆满觉悟的释迦牟尼佛，也泛指十方三世一切诸佛。佛是智慧和慈悲的圆满者，是众生的导师。"
+        },
+        {
+          "name": "法宝",
+          "english": "The Dharma",
+          "description": "指佛陀所宣讲的教法和真理，包括经典、教义、戒律等，能引导众生走向解脱。"
+        },
+        {
+          "name": "僧宝",
+          "english": "The Sangha",
+          "description": "指遵循佛法修行的出家僧团，他们是佛法的传承者和实践者，是众生的榜样。"
+        }
+      ]
+    },
+    "four_noble_truths": {
+      "title": "四圣谛",
+      "subtitle": "The Four Noble Truths",
+      "description": "这是佛陀初次说法时阐述的核心教义，是佛法的基础。",
+      "category": "foundational",
+      "items": [
+        {
+          "name": "苦谛",
+          "english": "Truth of Suffering",
+          "description": "认识到人生在本质上是苦的。这种苦不仅包括生、老、病、死等生理上的痛苦，也包括爱别离、怨憎会、求不得等精神上的痛苦，以及由五蕴无常变化带来的深层痛苦。"
+        },
+        {
+          "name": "集谛",
+          "english": "Truth of the Origin of Suffering",
+          "description": "揭示痛苦的根源在于集，即众生内心的贪爱、欲望和执着。这些烦恼驱使我们造作种种业，从而导致无尽的轮回之苦。"
+        },
+        {
+          "name": "灭谛",
+          "english": "Truth of the Cessation of Suffering",
+          "description": "指明痛苦是可以被消灭的。当彻底断除贪爱和执着后，所达到的寂静、安乐、解脱的境界，即是涅槃。"
+        },
+        {
+          "name": "道谛",
+          "english": "Truth of the Path to the Cessation of Suffering",
+          "description": "指出通往涅槃的正确道路和方法，即八正道。"
+        }
+      ]
+    },
+    "eightfold_path": {
+      "title": "八正道",
+      "subtitle": "The Noble Eightfold Path",
+      "description": "这是通往解脱的八个正确实践方法，是戒、定、慧三学的具体展开。",
+      "category": "foundational",
+      "items": [
+        {
+          "name": "正见",
+          "english": "Right View",
+          "description": "正确的见解，即了知四圣谛、因果轮回等佛法真理。"
+        },
+        {
+          "name": "正思惟",
+          "english": "Right Intention",
+          "description": "正确的思维和意念，远离贪欲、嗔恚和邪见。"
+        },
+        {
+          "name": "正语",
+          "english": "Right Speech",
+          "description": "正确的言语，即不妄语、不两舌、不恶口、不绮语。"
+        },
+        {
+          "name": "正业",
+          "english": "Right Action",
+          "description": "正确的行为，即不杀生、不偷盗、不邪淫。"
+        },
+        {
+          "name": "正命",
+          "english": "Right Livelihood",
+          "description": "正确的谋生方式，从事有益于社会、不伤害他人的正当职业。"
+        },
+        {
+          "name": "正精进",
+          "english": "Right Effort",
+          "description": "正确的努力，即精进不懈地断恶修善。"
+        },
+        {
+          "name": "正念",
+          "english": "Right Mindfulness",
+          "description": "正确的念住，即时刻保持对自己身、受、心、法的清晰觉知。"
+        },
+        {
+          "name": "正定",
+          "english": "Right Concentration",
+          "description": "正确的禅定，通过禅修培养内心的专注与安定。"
+        }
+      ]
+    },
+    "buddhist_doctrine": {
+      "title": "佛教教理",
+      "subtitle": "Buddhist Doctrine",
+      "description": "佛教的核心理论和世界观，解释生命和宇宙的真实性质。",
+      "category": "doctrine",
+      "items": [
+        {
+          "name": "因缘",
+          "english": "Dependent Origination",
+          "description": "也称缘起。佛法的根本法则，意指世界上一切事物和现象，都不是孤立存在的，而是由多种条件（因和缘）和合而生。因是主要条件，缘是辅助条件。"
+        },
+        {
+          "name": "业力",
+          "english": "Karma",
+          "description": "业指我们的一切身、口、意行为。业力则是这些行为所产生的力量，它会决定我们未来的生命状态。善业导致乐报，恶业导致苦报，这是宇宙间不变的法则。"
+        },
+        {
+          "name": "轮回",
+          "english": "Samsara",
+          "description": "又称生死轮回。指众生在六道（天、人、阿修罗、畜生、饿鬼、地狱）之中，因业力的牵引，像车轮一样不停地转动，死后复生，生后又死，无穷无尽。"
+        },
+        {
+          "name": "涅槃",
+          "english": "Nirvana",
+          "description": "意为寂灭、圆寂。指熄灭了内心的一切烦恼（贪、嗔、痴），从轮回的痛苦中彻底解脱出来，达到一种不生不灭、究竟安乐、绝对自由的最终境界。"
+        },
+        {
+          "name": "空性",
+          "english": "Sunyata",
+          "description": "大乘佛教的核心思想之一。并非指一无所有，而是指一切事物都没有固定不变、独立存在的实体或自性（无自性）。它们都是在因缘和合下呈现的暂时现象，其本性是空的。"
+        },
+        {
+          "name": "中道",
+          "english": "The Middle Way",
+          "description": "远离断见（认为死后一切断灭）和常见（认为有永恒不变的灵魂）两种极端见解，也指修行上不偏于苦行或纵欲的正确道路。"
+        },
+        {
+          "name": "无常",
+          "english": "Impermanence",
+          "description": "指一切事物和现象都处于永不停息的生灭变化之中，没有什么是永恒不变的。"
+        },
+        {
+          "name": "无我",
+          "english": "Anatman/No-self",
+          "description": "指在身心内外，都找不到一个独立、永恒、可主宰的我或灵魂的存在。我们所执着的我，只是五蕴（色、受、想、行、识）的暂时聚合体。"
+        },
+        {
+          "name": "五蕴",
+          "english": "The Five Aggregates",
+          "description": "构成我们身心世界的五大要素。包括：色蕴（物质身体）、受蕴（感受）、想蕴（思想概念）、行蕴（意志行为）、识蕴（了别认识）。"
+        },
+        {
+          "name": "十二因缘",
+          "english": "The Twelve Links of Dependent Origination",
+          "description": "具体阐释众生如何在轮回中流转的十二个环节，即：无明、行、识、名色、六入、触、受、爱、取、有、生、老死。它是对集谛更详细的说明。"
+        }
+      ]
+    },
+    "basic_practice": {
+      "title": "基础修行",
+      "subtitle": "Basic Practice",
+      "description": "佛教修行的基本方法和心态培养，为进一步修行奠定基础。",
+      "category": "practice",
+      "items": [
+        {
+          "name": "五戒",
+          "english": "The Five Precepts",
+          "description": "在家佛教徒（居士）应遵守的五条基本戒律，是道德生活的基础。包括：不杀生、不偷盗、不邪淫、不妄语、不饮酒。"
+        },
+        {
+          "name": "十善",
+          "english": "The Ten Wholesome Actions",
+          "description": "比五戒更进一步的善行标准。身体方面：不杀生、不偷盗、不邪淫；语言方面：不妄语、不两舌（不搬弄是非）、不恶口（不恶言伤人）、不绮语（不花言巧语）；心意方面：不贪欲、不嗔恚、不邪见。"
+        },
+        {
+          "name": "菩提心",
+          "english": "Bodhicitta",
+          "description": "意为觉悟之心。指上求佛道，下化众生的广大心愿，即为了度化一切众生而誓愿成佛的决心。这是大乘佛教修行的起点和核心。"
+        },
+        {
+          "name": "慈悲心",
+          "english": "Compassion",
+          "description": "慈，是给予众生安乐之心（与乐）；悲，是拔除众生痛苦之心（拔苦）。慈悲是佛菩萨的根本德行，也是大乘行者必须培养的心态。"
+        },
+        {
+          "name": "般若",
+          "english": "Prajna",
+          "description": "意为智慧，但特指能够洞悉宇宙人生实相（如空性、无我）的根本智慧，是能够断除一切烦恼、超越生死的究竟智慧。"
+        },
+        {
+          "name": "禅定",
+          "english": "Dhyana/Samadhi",
+          "description": "通过禅修使内心达到专注、宁静、安稳的状态。禅定是培养智慧、断除烦恼的重要方法，是戒、定、慧三学之一。"
+        },
+        {
+          "name": "布施",
+          "english": "Dana/Generosity",
+          "description": "将自己所拥有的（财物、知识、体力等）给予他人。分为财布施、法布施（教导正法）、无畏布施（使人远离恐惧）。布施是六度之首，能对治悭贪。"
+        },
+        {
+          "name": "功德",
+          "english": "Merit",
+          "description": "指通过持戒、布施、禅修等善行所积累的内在善果。它不同于外在的福报，功德可以直接用于对治烦恼、增长智慧、达成解脱。"
+        },
+        {
+          "name": "福报",
+          "english": "Blessings/Rewards",
+          "description": "指因行善而获得的世间善果，如健康、财富、长寿、好名声等。福报是暂时的，会享尽，而功德则可以带向解脱。"
+        },
+        {
+          "name": "发愿",
+          "english": "Making Vows",
+          "description": "树立修行目标和决心。例如阿弥陀佛的四十八愿，地藏菩萨的地狱未空誓不成佛等。清晰的愿力是修行的强大动力。"
+        },
+        {
+          "name": "回向",
+          "english": "Dedication of Merit",
+          "description": "将自己修行所得的功德、福报，分享给法界一切众生，或指向一个特定的目标（如往生净土、祈愿亲人安康等）。回向能破除我执，扩大自己的心量和功德。"
+        }
+      ]
+    },
+    "practice_methods": {
+      "title": "修行方法",
+      "subtitle": "Practice Methods",
+      "description": "具体的修行技巧和方法，帮助修行者在日常生活中实践佛法。",
+      "category": "methods",
+      "items": [
+        {
+          "name": "念佛",
+          "english": "Buddha-recitation",
+          "description": "专心一意地称念佛的名号，如南无阿弥陀佛。这是净土宗的主要修行方法，旨在通过佛的愿力加持和自心的专注，达到一心不乱，最终往生净土。"
+        },
+        {
+          "name": "持咒",
+          "english": "Mantra-chanting",
+          "description": "反复念诵佛菩萨的真言（咒语），如《大悲咒》、《楞严咒》。咒语被认为是佛菩萨智慧和力量的音声显现，持咒能消除业障，获得加持。"
+        },
+        {
+          "name": "打坐",
+          "english": "Meditation",
+          "description": "又称坐禅，是禅修的基本姿势。通过调整姿势、呼吸和心念，使身心放松、宁静，是修习禅定的主要方式。"
+        },
+        {
+          "name": "观想",
+          "english": "Visualization",
+          "description": "在心中清晰地构想出佛菩萨的形象、净土的庄严或佛法的义理（如观想白骨、观想不净等）。这是一种集中精神、转化心念的修行方法。"
+        },
+        {
+          "name": "参禅",
+          "english": "Chan/Zen Investigation",
+          "description": "禅宗特有的修行方法。通常是就一个话头（如念佛是谁？、万法归一，一归何处？）进行长时间的参究，以期在疑情不断积聚后，于某个时刻豁然开朗，明心见性。"
+        }
+      ]
+    },
+    "buddha_bodhisattva": {
+      "title": "佛菩萨圣号",
+      "subtitle": "Buddhas and Bodhisattvas",
+      "description": "佛教中重要的佛菩萨，他们的名号、功德和特点。",
+      "category": "personalities",
+      "items": [
+        {
+          "name": "释迦牟尼佛",
+          "english": "Sakyamuni Buddha",
+          "description": "现代佛教的创始人，本师。他生于古印度，证悟成佛后，说法四十九年，为众生揭示了宇宙人生的真理和解脱之道。"
+        },
+        {
+          "name": "观音菩萨",
+          "english": "Avalokiteshvara",
+          "description": "又称观世音菩萨，是大慈大悲的象征。他闻声救苦，有求必应，在中国有极其广泛的信仰，是佛教中最著名的菩萨之一。"
+        },
+        {
+          "name": "文殊菩萨",
+          "english": "Manjushri",
+          "description": "大智慧的象征，常被称为文殊师利菩萨。他手持利剑，代表智慧能断除一切烦恼，常与普贤菩萨一同作为释迦牟尼佛的胁侍。"
+        },
+        {
+          "name": "普贤菩萨",
+          "english": "Samantabhadra",
+          "description": "大行愿的象征。他以普贤十大行愿而著称，代表了将佛法落实于行动的伟大实践精神。常与文殊菩萨一同作为释迦牟尼佛的胁侍。"
+        }
+      ]
+    }
+  },
+  "categories": [
+    {
+      "id": "foundational",
+      "name": "基础核心",
+      "description": "佛教的根本概念，是学习的基础"
+    },
+    {
+      "id": "doctrine",
+      "name": "佛教教理",
+      "description": "佛教的核心理论和世界观"
+    },
+    {
+      "id": "practice",
+      "name": "基础修行",
+      "description": "修行的基本方法和心态培养"
+    },
+    {
+      "id": "methods",
+      "name": "修行方法",
+      "description": "具体的修行技巧和方法"
+    },
+    {
+      "id": "personalities",
+      "name": "佛菩萨圣号",
+      "description": "重要的佛菩萨及其功德"
+    }
+  ]
+}
